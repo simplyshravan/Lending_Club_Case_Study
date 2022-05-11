@@ -14,7 +14,6 @@
 - Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return.
 - If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment.
-- Data set used is [DataSet](https://github.com/simplyshravan/fraud_detection/blob/master/ml_model.py)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
