@@ -32,6 +32,8 @@
 - Python Pandas - version 1.1.5
 - Python Numpy - version 1.19.5
 - Python Seaborn - version 0.11.2
+- Jupyter Notebook - version 6.4.10
+- ipykernel - version 6.13.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
