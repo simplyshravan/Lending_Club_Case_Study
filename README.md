@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Lending Club receives a lot of loan application. The company has to make a decision for loan approval based on applicant's profile. This project focusses on indetifying the keys factors to take that decision.
+> Lending Club receives a lot of loan application. The company has to make a decision for loan approval based on applicant's profile. This project focusses on indentifying the keys factors to take that decision.
 
 
 ## Table of Contents
