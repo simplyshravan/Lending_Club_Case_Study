@@ -16,6 +16,15 @@
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilize this knowledge for its portfolio and risk assessment.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+- Python Pandas - version 1.1.5
+- Python Numpy - version 1.19.5
+- Python Seaborn - version 0.11.2
+- Jupyter Notebook - version 6.4.10
+- ipykernel - version 6.13.0
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Conclusions
 1. LC should reduce the rate of interest for 60 months tenure to borrowers as the chance for them to default is more.
@@ -26,16 +35,6 @@
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Python Pandas - version 1.1.5
-- Python Numpy - version 1.19.5
-- Python Seaborn - version 0.11.2
-- Jupyter Notebook - version 6.4.10
-- ipykernel - version 6.13.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contributors
 * [Shubhada](https://github.com/Shubhada-11)
